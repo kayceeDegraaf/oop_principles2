@@ -25,4 +25,9 @@ public class Nokia extends Phone{
     public void text() {
         System.out.println("Nokia texts");
     }
+
+    @Override
+    public boolean isConvertible() {
+        return true;
+    }
 }
