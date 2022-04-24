@@ -1,4 +1,4 @@
-package inheritance;
+package abstraction.abstract_classes;
 
 import abstraction.abstract_classes.IPhone;
 import abstraction.abstract_classes.Nokia;
